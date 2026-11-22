@@ -1,0 +1,21 @@
+{
+  "sessionId": "7b68b32c-480c-4354-9293-aff26730c01a",
+  "name": "Quero que você compile um driver",
+  "createdAt": "2026-11-22T17:53:07.573Z",
+  "filename": "7b68b32c-480c-4354-9293-aff26730c01a.json",
+  "geminiStarted": false,
+  "messages": [
+    {
+      "id": "1cc043c7-17b9-4023-ae1a-74615e6acc7a",
+      "role": "user",
+      "content": "Quero que você compile um driver PanVK para minha Mali G720 mc8 e que esse driver seja compatível com o adrenotools. Eu não irei instalar o driver diretamente no meu sistema. Além disso, saiba que ocorre certos problemas de Black Screen com certas compilações do driver, corrija isso aí tbm.",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-22T17:53:07.916Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
+}
